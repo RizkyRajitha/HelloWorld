@@ -19,4 +19,5 @@ rbo13 - Go
 hariprasetia - C++
 ishanka - python
 atipaHy - HTML
+dharmick - c
 ```
