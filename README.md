@@ -5,6 +5,7 @@ don't forget to add your name and programming language you have used to the read
 
 ```
 Nann - JavaScript
+Shivam Mani Tripathi -NodeJS
 kemda26 - Python
 YashKumarVerma - C
 pikami - GO
