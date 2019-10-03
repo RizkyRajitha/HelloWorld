@@ -21,4 +21,6 @@ ishanka - python
 atipaHy - HTML
 dharmick - c
 DarthBenro008 - Kotlin
+tanangular - Rust
+tanangular - Assembly
 ```
