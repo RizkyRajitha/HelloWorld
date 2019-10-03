@@ -889,3 +889,5 @@ healthchecksdb
 MigrationBackup/
 
 # End of https://www.gitignore.io/api/go,lua,c++,node,rust,java,python,kotlin,cakephp,fuelphp,java-web,netbeans,jetbrains,phpstorm+all,visualstudio,visualstudiocode
+
+.DS_Store
