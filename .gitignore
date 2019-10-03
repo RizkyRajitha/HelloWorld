@@ -2,12 +2,6 @@
 # Created by https://www.gitignore.io/api/go,lua,c++,node,rust,java,python,kotlin,cakephp,fuelphp,java-web,netbeans,jetbrains,phpstorm+all,visualstudio,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=go,lua,c++,node,rust,java,python,kotlin,cakephp,fuelphp,java-web,netbeans,jetbrains,phpstorm+all,visualstudio,visualstudiocode
 
-### Assembler ###
-*.exe
-*.o
-*.obj
-*.bc
-
 ### C++ ###
 # Prerequisites
 *.d
