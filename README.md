@@ -23,4 +23,5 @@ dharmick - c
 DarthBenro008 - Kotlin
 tanangular - Rust
 tanangular - Assembly
+elixir - rizky
 ```
